@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+img{
+  width: 14%;
+}
+
+body{
+  background-color: midnightblue;
+  font-family: 'Fruktur', cursive;
+  font-size: 25px;
+  color: red;
+}
+
+.followersDiv{
+  padding: 4%;
+}
+
+.followersDiv:nth-child(even){
+  background-color: seashell;
+}
+
+a{
+  text-decoration: none;
+  color: red
+}
